@@ -1,0 +1,11 @@
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\bin\Debug\yazgyny okap beryan.exe.config
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\bin\Debug\yazgyny okap beryan.exe
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\bin\Debug\yazgyny okap beryan.pdb
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\yazgyny okap beryan.csprojResolveAssemblyReference.cache
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\Interop.SpeechLib.dll
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\yazgyny okap beryan.csproj.ResolveComReference.cache
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\yazgyny_okap_beryan.Form1.resources
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\yazgyny_okap_beryan.Properties.Resources.resources
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\yazgyny okap beryan.csproj.GenerateResource.Cache
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\yazgyny okap beryan.exe
+c:\users\222207\documents\visual studio 2015\Projects\yazgyny okap beryan\yazgyny okap beryan\obj\Debug\yazgyny okap beryan.pdb
